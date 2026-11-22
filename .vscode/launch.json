@@ -6,7 +6,7 @@
       "type": "debugpy",
       "request": "launch",
       "module": "consensus_osint.cli",
-      "args": ["--help"],
+      "args": ["version"],
       "cwd": "${workspaceFolder}",
       "console": "integratedTerminal"
     }

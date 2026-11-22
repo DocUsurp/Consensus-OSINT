@@ -27,6 +27,7 @@ from contextvars import ContextVar
 from pathlib import Path
 from urllib.parse import urlparse
 
+.
 from . import __version__
 from .core.config import KNOWN_DEFAULTS, config_path, get_config, set_key, unused_settings
 from .core.console import Printer
